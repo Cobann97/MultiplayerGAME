@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d010226c32e965143a390d1cbc6e7a20
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerPrefab: {fileID: 1394796330181437994, guid: 1873ee1a16839894eab67f2c9b6df5c5, type: 3}
+  - HurdleEmpty: {instanceID: 0}
+  - HurdlePrefab1: {instanceID: 0}
+  - HurdlePrefab2: {instanceID: 0}
+  - HurdlePrefab3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
